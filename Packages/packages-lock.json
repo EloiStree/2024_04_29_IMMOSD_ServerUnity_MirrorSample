@@ -54,7 +54,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "f32a51949ffc38202aa22bc35b6405cadcf7a7fd"
+      "hash": "011c546849ad066ef71b93e37bd832ff0c9924b1"
     },
     "be.eloistree.license": {
       "version": "https://github.com/EloiStree/GeneralLicense.git",
